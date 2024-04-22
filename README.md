@@ -59,7 +59,7 @@ The Denial of Service (DoS) Monitor is a web-based tool designed to monitor the 
 3. **Stop Monitoring**: To stop the monitoring process, click on the "Stop Monitor" button.
 4. **View Real-time Chart**: The chart on the page visualizes the status of monitored ports in real-time.
 
-			![Image Description](https://github.com/krishna672/DOSChecker/blob/main/images/working.PNG)
+	![Image Description](https://github.com/krishna672/DOSChecker/blob/main/images/working.PNG)
 			
 			
 
