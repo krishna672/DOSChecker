@@ -38,19 +38,33 @@ The Denial of Service (DoS) Monitor is a web-based tool designed to monitor the 
      cd path/to/repository
      npm install
      ```
+	 
 	 ![Local Image](images/npminstall.png)
+	 
 3. **Run the Application**:
    - Start the Node.js server:
      ```
      node server.js
      ```
+	 
+	 
+	 ![Local Image](images/serverstart.png
+	 
    - Open `http://localhost:3000` in a web browser.
+   
+     ![Local Image](images/indexpage.png
+	 
+	 
 
 ## Usage
 1. **Input IP and Ports**: Enter the IP address and ports of the server you want to monitor in the provided input fields.
 2. **Start Monitoring**: Click on the "Check Port" button to start monitoring the specified ports.
 3. **Stop Monitoring**: To stop the monitoring process, click on the "Stop Monitor" button.
 4. **View Real-time Chart**: The chart on the page visualizes the status of monitored ports in real-time.
+
+			![Local Image](images/working.png
+			
+			
 
 ## Logging Output Data
 - Output data from port monitoring is logged to files for analysis and record-keeping.
