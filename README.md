@@ -16,7 +16,7 @@ The Denial of Service (DoS) Monitor is a web-based tool designed to monitor the 
 - **server.js**: Node.js script setting up the Express.js server and WebSocket server for communication with the client-side application.
 - **backend.py**: Python script used to check the status of ports on the specified server.
 - **logs/**: logs for DOS monitor are stored.
-![Local Image](images/local_image.png)
+![Local Image]([images/local_image.png](https://github.com/krishna672/DOSChecker/blob/main/images/npminstall.PNG))
 
 ## Dependencies
 ### Frontend Dependencies
@@ -38,7 +38,8 @@ The Denial of Service (DoS) Monitor is a web-based tool designed to monitor the 
      cd path/to/repository
      npm install
      ```
-	 ![Local Image](images/npminstall.png)
+	 ![Image Description]()
+
 3. **Run the Application**:
    - Start the Node.js server:
      ```
