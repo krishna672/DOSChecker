@@ -45,9 +45,7 @@ The Denial of Service (DoS) Monitor is a web-based tool designed to monitor the 
      ```
      node server.js
      ```
-	 
-	 
-	 ![Image Description](https://github.com/krishna672/DOSChecker/blob/main/images/startserver.PNG)
+     	![Image Description](https://github.com/krishna672/DOSChecker/blob/main/images/indexpage.PNG)
 	 
    - Open `http://localhost:3000` in a web browser.
    
